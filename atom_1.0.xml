@@ -1,0 +1,6 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <entry>
+        <title type="text"><![CDATA[<img src=x onerror=alert(document.cookie)>]]>title</title>
+        <content type="tex/html"><![CDATA[<img src=x onerror=alert(document.cookie)>]]></content>
+    </entry>
+</feed>
