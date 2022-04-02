@@ -7,7 +7,7 @@
  <language>en</language>
 <item>
  <title>Disturbing<script>alert('xss title');</script> XSS<script>alert('xss title');</script></title>
- <link>httffp://justin.madirish.net/node/343 <script>alert('xss link');</script></link>
+ <link>http://justin.madirish.net/node/343 <script>alert('xss link');</script></link>
  <description>foobar</description>
  <pubDate>Wed, 04 Mar 2009 13:42:09 +0000</pubDate>
  <dc:creator>justin</dc:creator>
